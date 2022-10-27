@@ -7,9 +7,9 @@ Projeto realizado como teste de conhecimento para empresa Infoideias a fim de ve
 <p>
 Para rodar os testes usando Terminal do VSCode, basta executar o comando "php Page_Teste.php".
 
-#####
+<hr>
 
-Lembre-se de mover o "/*" para ativar a solicitação das funções.
+Lembre-se de mover o <b>"/*"</b> para ativar a solicitação das funções.
 </p>
 
-<footer>Author: Wesley Benites</footer>
+<footer><b>Author:</b> Wesley Benites</footer>
